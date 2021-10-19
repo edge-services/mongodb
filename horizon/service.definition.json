@@ -9,7 +9,7 @@
     "arch": "$ARCH",
     "sharable": "multiple",
     "requiredServices": [],
-    "userInputs": [
+    "userInput": [
         {
             "name": "MONGO_INITDB_ROOT_USERNAME",
             "label": "Root DB Username",
