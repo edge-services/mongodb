@@ -24,6 +24,10 @@
       "serviceVersionRange": "[0.0.0,INFINITY)",
       "inputs": [
         {
+          "name": "MONGO_INITDB_DATABASE",
+          "value": "admin"
+        },
+        {
           "name": "MONGO_INITDB_ROOT_USERNAME",
           "value": "admin"
         },

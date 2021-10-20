@@ -11,6 +11,12 @@
     "requiredServices": [],
     "userInput": [
         {
+            "name": "MONGO_INITDB_DATABASE",
+            "label": "INIT DB",
+            "type": "string",
+            "defaultValue": "admin"
+        },
+        {
             "name": "MONGO_INITDB_ROOT_USERNAME",
             "label": "Root DB Username",
             "type": "string",
