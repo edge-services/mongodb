@@ -7,7 +7,7 @@
     "url": "$SERVICE_NAME",
     "version": "$SERVICE_VERSION",
     "arch": "$ARCH",
-    "sharable": "singleton",
+    "sharable": "multiple",
     "requiredServices": [],
     "userInput": [
         {

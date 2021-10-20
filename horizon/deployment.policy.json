@@ -15,6 +15,7 @@
   "properties": [
   ],
   "constraints": [
+    "runDB == true"
   ],
   "userInput": [
     {
