@@ -26,7 +26,7 @@
             "name": "MONGO_INITDB_ROOT_PASSWORD",
             "label": "Root DB Password",
             "type": "string",
-            "defaultValue": "P@ssw0rd"
+            "defaultValue": "1SatnamW"
         },
         {
             "name": "DB_USERNAME",
@@ -44,7 +44,7 @@
             "name": "DB_NAME",
             "label": "DB Name",
             "type": "string",
-            "defaultValue": "smartthings"
+            "defaultValue": "edgedb"
         },
         {
             "name": "MONGO_DATA_DIR",

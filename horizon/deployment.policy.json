@@ -33,11 +33,11 @@
         },
         {
           "name": "MONGO_INITDB_ROOT_PASSWORD",
-          "value": "P@ssw0rd"
+          "value": "1SatnamW"
         },
         {
           "name": "DB_NAME",
-          "value": "smartthings"
+          "value": "edgedb"
         },
         {
           "name": "DB_USERNAME",
